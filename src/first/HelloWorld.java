@@ -28,9 +28,9 @@ public class HelloWorld {
         System.out.println("Numbers are: " + (number + number1));
         System.out.println("The sum of my numbers is: " + (number + number1));
 
+        System.out.println("GitHub example");
 
-
-
+        System.out.println("GitHub example --> work/make a changes then git status, then add the chnages by  git add . ");
 
 
 }}
